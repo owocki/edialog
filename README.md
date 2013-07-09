@@ -6,7 +6,7 @@ This class acts as an object-oriented wrapper for the eDialog API.
 ## Installing & Using
 
 1. Update [these 4 variables](https://github.com/owocki/edialog/blob/master/lib/eDialog.php#L11-L14).
-2. Run [this class](https://github.com/owocki/edialog/blob/master/run.php).
+2. Run [this script](https://github.com/owocki/edialog/blob/master/run.php).
 3. Profit.
 
 
