@@ -7,7 +7,7 @@ This class acts as an object-oriented wrapper for the eDialog API.
 
 1. Update [these 4 variables](https://github.com/owocki/edialog/blob/master/lib/eDialog.php#L11-L14).
 2. Run [this class](https://github.com/owocki/edialog/blob/master/run.php).
-3. Profit
+3. Profit.
 
 
 ## What e-Dialog Web Services Lets Your Applications Do
@@ -50,9 +50,9 @@ Symbols act like variables in the content of email. When each individual email i
 
 ## Reference Links
 
-* A list of available methods is [here](http://sdk.e-dialog.com/edialog-webservices/SdkService.wsdl)
-* Also [here](http://www.pdf-archive.com/2013/02/19/ewsreference/ewsreference.pdf)
-* [Developer Guide](http://www.pdf-archive.com/2013/02/19/e-dialog-web-services-developer-guide-v1-4/e-dialog-web-services-developer-guide-v1-4.pdf)
+* A list of available methods is [here](http://sdk.e-dialog.com/edialog-webservices/SdkService.wsdl).
+* Also [here](http://www.pdf-archive.com/2013/02/19/ewsreference/ewsreference.pdf).
+* [Developer Guide](http://www.pdf-archive.com/2013/02/19/e-dialog-web-services-developer-guide-v1-4/e-dialog-web-services-developer-guide-v1-4.pdf).
 
 ## Sample request within our app
 
