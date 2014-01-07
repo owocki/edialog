@@ -1,4 +1,3 @@
-
 # PHP Wrapper for eDialog API.
 
 This class acts as an object-oriented wrapper for the eDialog API.
@@ -73,6 +72,8 @@ var_dump($response);
 
 ```
 
+<!-- Google Analytics --> 
+<img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/edialog' style='width:1px; height:1px;' >
 
 
 
